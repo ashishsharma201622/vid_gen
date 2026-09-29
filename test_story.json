@@ -1,0 +1,249 @@
+{
+  "title": "The Moon Door",
+  "description": "A little boy finds a tiny magical door behind his bookshelf that opens up a portal to walk directly onto the moon.",
+  "visual_style": "cinematic high-quality 3D animated film, expressive characters, detailed environments, soft cinematic lighting, beautiful colors, depth of field, consistent character design, vertical 9:16 composition",
+  "characters": [
+    {
+      "id": "leo",
+      "name": "Leo",
+      "role": "Main Character",
+      "age": "7",
+      "appearance": "Round face, big curious hazel eyes, messy brown hair, freckles across his nose",
+      "clothing": "Striped blue and white pajamas with matching pajama pants, fuzzy red slippers",
+      "personality": "Inquisitive, imaginative, brave, and easily amazed",
+      "voice": "en-US-GuyNeural"
+    },
+    {
+      "id": "narrator",
+      "name": "Narrator",
+      "role": "Storyteller",
+      "age": "Adult",
+      "appearance": "Unseen",
+      "clothing": "Unseen",
+      "personality": "Warm, magical, and soothing",
+      "voice": "en-US-AriaNeural"
+    }
+  ],
+  "scenes": [
+    {
+      "id": 1,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "Late at night, Leo noticed a peculiar glow coming from behind his bookshelf.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, 7-year-old boy Leo with messy brown hair and blue striped pajamas peeking behind a wooden bookshelf, a warm golden light glowing from a tiny baseboard crack, soft bedroom lighting, highly detailed.",
+      "camera": "Medium shot, slowly pushing in toward the bookshelf",
+      "sound_effects": [
+        "Soft magical chime",
+        "Gentle room tone"
+      ]
+    },
+    {
+      "id": 2,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "He moved the heavy books aside to find something impossible.",
+      "dialogue": [
+        {
+          "character": "leo",
+          "text": "Whoa... where did you come from?"
+        }
+      ],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo in blue striped pajamas pulling aside books, revealing a tiny ornate wooden door glowing with blue starlight embedded in the wall, wide-eyed expression of wonder.",
+      "camera": "Close-up on Leo's face reacting to the door",
+      "sound_effects": [
+        "Books sliding on wood",
+        "Low mystical hum"
+      ]
+    },
+    {
+      "id": 3,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "The tiny brass handle turned effortlessly in his small hand.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo's small hand turning a miniature brass doorknob on the tiny door, sparkling starlight dust spilling out from the slight crack, magical blue glow illuminating his face.",
+      "camera": "Macro shot focusing on the hand and the tiny door",
+      "sound_effects": [
+        "Click of a tiny latch",
+        "Sparkling magic sound"
+      ]
+    },
+    {
+      "id": 4,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "Instead of the hallway wall, he saw craters and distant stars.",
+      "dialogue": [
+        {
+          "character": "leo",
+          "text": "Is that... outer space?"
+        }
+      ],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, POV looking through the tiny open door, revealing a miniature lunar landscape with gray craters and the deep black cosmos filled with glowing stars.",
+      "camera": "Over-the-shoulder shot looking through the doorway",
+      "sound_effects": [
+        "Faint cosmic wind",
+        "Twinkling stars sound"
+      ]
+    },
+    {
+      "id": 5,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "With a quick puff of courage, Leo blew a gentle breath into the portal.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo leaning forward in his blue striped pajamas, gently blowing towards the tiny open door, magic particles swirling around him.",
+      "camera": "Medium shot tracking Leo's movement",
+      "sound_effects": [
+        "Gentle puff of air",
+        "Magic wind swirl"
+      ]
+    },
+    {
+      "id": 6,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "Suddenly, the tiny door expanded, growing as tall as he was.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, the tiny door magically stretching and growing upwards until it is a full-sized doorway in Leo's bedroom wall, glowing with silver lunar light.",
+      "camera": "Wide shot of the bedroom as the door expands",
+      "sound_effects": [
+        "Deep magical expansion rumble",
+        "Whoosh"
+      ]
+    },
+    {
+      "id": 7,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "The bedroom floor vanished, replaced by powdery white moondust.",
+      "dialogue": [
+        {
+          "character": "leo",
+          "text": "Here I go!"
+        }
+      ],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo stepping forward through the glowing doorway, his red slippers touching down onto the gray, powdery surface of the moon, planet Earth visible in the dark sky behind him.",
+      "camera": "Low angle tracking shot following his feet",
+      "sound_effects": [
+        "Soft crunch of dust",
+        "Echoing footstep"
+      ]
+    },
+    {
+      "id": 8,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "He took a leap and floated higher than he ever dreamed.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo floating gracefully in low gravity above the lunar surface, arms outstretched in joy, big smile, earth glowing bright blue in the background.",
+      "camera": "Wide dynamic tracking shot following his float",
+      "sound_effects": [
+        "Whimsical floating swoosh",
+        "Gentle chime"
+      ]
+    },
+    {
+      "id": 9,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "He bounced across craters like a happy astronaut.",
+      "dialogue": [
+        {
+          "character": "leo",
+          "text": "Look how high I can jump!"
+        }
+      ],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo bouncing playfully over a moon crater in his blue pajamas and red slippers, starlight reflecting in his eyes, joyful expression.",
+      "camera": "Medium action shot tracking the bounce",
+      "sound_effects": [
+        "Boing sound effect mixed with space echo",
+        "Happy laugh"
+      ]
+    },
+    {
+      "id": 10,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "He spun around and painted constellations with a glowing space rock.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo holding a glowing lunar rock, drawing sparkling lines of light in the air of space, bright colorful nebula clouds swirling around him.",
+      "camera": "Close-up on Leo spinning with the glowing rock",
+      "sound_effects": [
+        "Magical sparkle trail",
+        "Whistling wind"
+      ]
+    },
+    {
+      "id": 11,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "Soon, a familiar yawn reminded him that bedtime was still bedtime, even on the moon.",
+      "dialogue": [
+        {
+          "character": "leo",
+          "text": "Time to head back, I guess."
+        }
+      ],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo rubbing his sleepy eyes with one hand, standing on the moon surface next to the open glowing doorway that leads back to his cozy bedroom.",
+      "camera": "Medium shot, gentle framing",
+      "sound_effects": [
+        "Sleepy yawn",
+        "Soft cosmic breeze"
+      ]
+    },
+    {
+      "id": 12,
+      "duration": 4,
+      "characters": [
+        "leo"
+      ],
+      "narration": "He stepped back through, leaving the universe tucked safely in his wall.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo stepping backward through the doorway into his dim bedroom, the door shrinking back down to a tiny size as it clicks shut.",
+      "camera": "Medium wide shot inside the bedroom",
+      "sound_effects": [
+        "Door clicking shut",
+        "Warm cozy room tone"
+      ]
+    },
+    {
+      "id": 13,
+      "duration": 3,
+      "characters": [
+        "leo"
+      ],
+      "narration": "Climbing into his bed, Leo drifted off to sleep, dreaming of his next galactic adventure.",
+      "dialogue": [],
+      "visual_prompt": "Cinematic 3D animation, vertical 9:16, Leo fast asleep in his cozy bed under blue blankets, a tiny smile on his face, moonlight streaming softly through his bedroom window.",
+      "camera": "Close-up peaceful shot of Leo sleeping",
+      "sound_effects": [
+        "Soft lullaby music box",
+        "Peaceful night crickets"
+      ]
+    }
+  ]
+}
